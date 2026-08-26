@@ -1,0 +1,6 @@
+{
+  "name": "MindScribe - AI Journal & Reflection",
+  "description": "A production-grade, user-authenticated AI journaling, reflection, insights, and goal tracking application powered by Firebase Auth, Cloud Firestore, and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
